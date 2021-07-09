@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 72px;
+    color: #fff;
+    background-color: #281B2D;
+}
+img {
+    margin: 20px 0;
+}
+h2{
+    font-size: 48px;
+    color:#FCD801;
+    background-color: #281B2D ;
+    border-bottom: #00C54C  ;
+}    
+.container{
+   width: 1000px;
+   text-align:center;
+}
+ol, ul {
+    text-align: left;
+    list-style: inside;
+}
