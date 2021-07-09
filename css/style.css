@@ -49,6 +49,10 @@ h1 {
     cursor:pointer;
 
 }
+.sidebar p:hover {
+    text-decoration: underline;
+    color: red;
+}
 
 .col-right {
     margin-left: 25px;
