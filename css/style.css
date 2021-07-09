@@ -40,12 +40,12 @@ h1 {
 .sidebar {
     width: 30%;
     background-color: #9AE84F;
-    padding: 15px;
+    padding: 20px;
 
 }
 .sidebar p{
     color: #9138B7;
-    font-size: 15px;
+    font-size: 14px;
     cursor:pointer;
 
 }
