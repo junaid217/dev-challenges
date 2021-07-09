@@ -39,6 +39,15 @@ h1 {
 
 .sidebar {
     width: 30%;
+    background-color: #9AE84F;
+    padding: 15px;
+
+}
+.sidebar p{
+    color: #9138B7;
+    font-size: 15px;
+    cursor:pointer;
+
 }
 
 .col-right {
